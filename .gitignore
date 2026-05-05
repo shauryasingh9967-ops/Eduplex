@@ -1,0 +1,14 @@
+# node modules
+node_modules/
+
+# env files
+.env
+
+# vscode
+.vscode/
+
+# logs
+*.log
+
+# firebase secret file
+eduplex-49c9c-firebase-adminsdk-fbsvc-48fccb1e94.json
